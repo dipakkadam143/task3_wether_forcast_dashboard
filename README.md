@@ -27,7 +27,7 @@ OpenWeatherMap API
 Clone the repository to your local machine:
 
 <pre>
-git clone 
+git clone https://github.com/dipakkadam143/task3_wether_forcast_dashboard
 </pre>
 
 Navigate to project directory:
