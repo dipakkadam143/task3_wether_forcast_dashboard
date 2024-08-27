@@ -43,3 +43,4 @@ Open your web browser and visit http://localhost:3000 to view the website locall
 
 Live website can be seen here: 
 
+https://task3-wether-forcast-dashboard.vercel.app/
